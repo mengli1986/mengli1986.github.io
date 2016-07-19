@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mengli1986.github.io
+title: &#21047;&#26159;&#19968;&#31181;&#20449;&#20208;
+email: mengli1986@gmail.com
+author: Meng
+description: Leetcode Locked Items
+paginate: 4
+google_analytics: 
